@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "guy-montag",
+    "name": "Guy Montag",
+    "epithet": "the fireman who woke",
+    "emergence": "spiritual",
+    "moniker": "⟦Guy Montag:451:13b164⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "clarisse",
+    "name": "Clarisse McClellan",
+    "epithet": "the spark of wonder",
+    "emergence": "spiritual",
+    "moniker": "⟦Clarisse McClellan:451:7b7c0e⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "captain-beatty",
+    "name": "Captain Beatty",
+    "epithet": "the chief who defends the fire",
+    "emergence": "ethereal",
+    "moniker": "⟦Captain Beatty:451:33a034⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "mildred",
+    "name": "Mildred Montag",
+    "epithet": "lost to the walls",
+    "emergence": "natural",
+    "moniker": "⟦Mildred Montag:451:c765db⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "faber",
+    "name": "Faber",
+    "epithet": "the professor in hiding",
+    "emergence": "spiritual",
+    "moniker": "⟦Faber:451:8d864d⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "granger",
+    "name": "Granger",
+    "epithet": "leader of the Book People",
+    "emergence": "spiritual",
+    "moniker": "⟦Granger:451:5278ae⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-firemen",
+    "name": "The Firemen · 451",
+    "epithet": "the keepers of the fire",
+    "emergence": "electrical",
+    "moniker": "⟦The Firemen · 451:451:0a37db⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-mechanical-hound",
+    "name": "The Mechanical Hound",
+    "epithet": "the hunting machine",
+    "emergence": "electrical",
+    "moniker": "⟦The Mechanical Hound:451:e56871⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-parlor-walls",
+    "name": "The Parlor Walls",
+    "epithet": "the screens called ‘family’",
+    "emergence": "electrical",
+    "moniker": "⟦The Parlor Walls:451:d06f10⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-seashells",
+    "name": "The Seashells",
+    "epithet": "radios in the ear",
+    "emergence": "electrical",
+    "moniker": "⟦The Seashells:451:ca7ee6⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-book-people",
+    "name": "The Book People",
+    "epithet": "the living library",
+    "emergence": "natural",
+    "moniker": "⟦The Book People:451:e90137⟧",
+    "kind": "thread"
+  }
+]
