@@ -9,5 +9,12 @@
   "seal": "No tyrant had to ban the books — we put them down for the wall-screens first; the resistance is just this: read, be still, and become someone who remembers.",
   "seal_sha256": "0cd9e3fbb7db6636e9a055d054c4c8d628d0eea98a890349d74c57ad22622b98",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 670,
+    "prev": "eeb2c5174ad2c84d036fb1124049e428b03faaa5ad63bff967074eeb02ebc6d0",
+    "link": "229e4ea807b85223d61b582e04bba2741f8816dacc758399c6984b987809c701",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
