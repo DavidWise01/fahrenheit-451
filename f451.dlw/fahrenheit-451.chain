@@ -4,6 +4,6 @@ slug  : fahrenheit-451
 seal  : 0cd9e3fbb7db6636e9a055d054c4c8d628d0eea98a890349d74c57ad22622b98
 prev  : eeb2c5174ad2c84d036fb1124049e428b03faaa5ad63bff967074eeb02ebc6d0
 link  : 229e4ea807b85223d61b582e04bba2741f8816dacc758399c6984b987809c701
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
